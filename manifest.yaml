@@ -4,14 +4,14 @@ map: PubChemLite_exposomics.map
 
 # Where to store the entire build (for backup and forensics) [must
 # exist].
-top_backup: share/CompoundDBs/PubChem/PubChemLite/v2.0/backups
+top_backup: share/CompoundDBs/PubChem/PubChemLite/v2.0/PCL_test/backups_test
 
 # URL to benchmark file.
 url_bench: "https://zenodo.org/record/4146957/files/PCLite_Benchmark_wMSMS_info.csv"
 
 # Directory, or directories where to store output MetFrag files [must
 # exist].
-metfrag: share/CompoundDBs/PubChem/PubChemLite/v2.0/MetFrag_CSVs
+metfrag: share/CompoundDBs/PubChem/PubChemLite/v2.0/PCL_test/MetFrag_CSVs
 
 
 # Path to the CCS file.
