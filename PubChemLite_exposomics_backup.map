@@ -1,0 +1,11 @@
+BIT,CATEGORY,MFCOL
+192,Agrochemical Information,AgroChemInfo
+577,Interactions and Pathways,BioPathway
+82,Drug and Medication Information,DrugMedicInfo
+204,Food Additives and Ingredients,FoodRelated
+344,Pharmacology and Biochemistry,PharmacoInfo
+356,Safety and Hazards,SafetyInfo
+396,Toxicity,ToxicityInfo
+350,Use and Manufacturing,KnownUse
+137,Associated Disorders and Diseases,DisorderDisease
+171,Identification,Identification

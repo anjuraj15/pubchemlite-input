@@ -1,0 +1,7 @@
+https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/CID-PMID.gz
+https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/CID-Patent.gz
+https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/CID-Parent.gz
+https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/CID-InChI-Key.gz
+https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/CID-Synonym-filtered.gz
+https://ftp.ncbi.nlm.nih.gov/pubchem/.toc_fp/cid-bits-current.tab.gz
+https://ftp.ncbi.nlm.nih.gov/pubchem/.toc_fp/index-current.tab

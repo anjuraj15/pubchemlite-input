@@ -1,0 +1,18 @@
+# The file containing index bits of pubchem, the pubchem category
+# names and the corresponding metfrag column names.
+map: PubChemLite_exposomics.map
+
+# Where to store the entire build (for backup and forensics) [must
+# exist].
+top_backup: share/CompoundDBs/PubChem/PubChemLite/v2.0/backups
+
+# URL to benchmark file.
+url_bench: "https://zenodo.org/record/4146957/files/PCLite_Benchmark_wMSMS_info.csv"
+
+# Directory, or directories where to store output MetFrag files [must
+# exist].
+metfrag: share/CompoundDBs/PubChem/PubChemLite/v2.0/MetFrag_CSVs
+
+
+# Path to the CCS file.
+ccs_src_path: "share/CompoundDBs/PubChem/PubChemLite/ccs_input/ccs-pclite-comput-output.csv.gz"
