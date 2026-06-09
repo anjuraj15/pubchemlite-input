@@ -9,4 +9,5 @@ BIT,CATEGORY,MFCOL
 315,Use and Manufacturing,KnownUse
 118,Associated Disorders and Diseases,DisorderDisease
 147,Identification,Identification
-54,Chemical Classes,ChemClass
+#54,Chemical Classes,ChemClass
+461,NORMAN Suspect List Exchange,NormanSLE
